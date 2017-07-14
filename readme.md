@@ -20,4 +20,4 @@ To confirm you have understood and are ready to proceed please
 5. create a pull request to from your branch to master.
 
 ##Usernames
-1. @rollinsons
+1. [@rollinsons](https://github.com/rollinsons)
