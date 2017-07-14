@@ -1,16 +1,20 @@
 inUnity by freeCodeCamp SF is a web based application that connects people via meetup.
 
-<h>Getting Started</h>
+#Getting Started
 
-We will follow the <strong>Github Flow</strong> workflow for this project. This workflow has one production ready version on master, any changes are made in branches.
+We will follow the **Github Flow** workflow for this project. This workflow has one production ready version on master, any changes are made in branches.
 
 To familiarise yourself with this process please review the following tutorials.
 
-<ul>
-<li><a src="https://www.youtube.com/watch?v=0fKg7e37bQE">Github basics</a></li>
-<li><a src="https://youtu.be/oFYyTZwMyAg">GITHUB PULL REQUEST, Branching, Merging & Team Workflow</a></li>
-<li><a src="http://scottchacon.com/2011/08/31/github-flow.html">Github Flow by Mark Chacon</a></li>
-<li><a src=https://www.youtube.com/watch?v=ifAEho6BmH0><em>extra credit</em>Github Training : Sharing and Collaborating on projects</a></li>
-</ul>
 
-To confirm you have understood and are ready to proceed please clone this repo to your local machine, create a new branch, switch to that branch, add your username to the bottom of the readme.md, commit and push that change to your branch then create a pull request to from your branch to master.
+[Github Basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
+[GITHUB PULL REQUEST, Branching, Merging & Team Workflow](https://youtu.be/oFYyTZwMyAg)<
+[Github Flow by Mark Chacon](http://scottchacon.com/2011/08/31/github-flow.html)
+[*Extra Credit* Github Training : Sharing and Collaborating on projects](https://www.youtube.com/watch?v=ifAEho6BmH0)
+
+To confirm you have understood and are ready to proceed please
+1.Clone this repo to your local machine
+2. Create a new branch & switch to that branch
+3. Edit this readme.md file to include your github username to the bottom of file
+4. commit and push that change to your branch
+5. create a pull request to from your branch to master.
